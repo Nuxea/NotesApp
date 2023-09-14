@@ -24,3 +24,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Screenshot
+
+![Screenshot](/public/notesApp.png)
